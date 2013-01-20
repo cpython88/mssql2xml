@@ -1,6 +1,6 @@
 mssql2xml
 =========
 
-Copyright © 2004.  ALl rights reserved.
+Copyright ï¿½ 2004.  ALl rights reserved.
 
-Convrts MSSQL 2kX databases to XML files.
+Converts MSSQL 2000 databases to XML files.
